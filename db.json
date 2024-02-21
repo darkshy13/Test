@@ -1,0 +1,29 @@
+{
+    "post":[
+        {
+            "id":"Nv01",
+            "ho_ten":"Hoang Anh",
+            "sdt":"0998574210",
+            "email":"asbs@gmail.com",
+            "chuc_vu":"Trưởng Phòng",
+            "ngay_sinh":"2004/08/13"
+        },
+        {
+            "id":"Nv02",
+            "ho_ten":"Hoang Duck Anh",
+            "sdt":"0998574510",
+            "email":"as1bs@gmail.com",
+            "chuc_vu":"Nhân Viên",
+            "ngay_sinh":"2004/06/26"
+        },
+        {
+            "id":"Nv03",
+            "ho_ten":"Hoang Duc Anh",
+            "sdt":"0998564021",
+            "email":"asbs@gmail.com",
+            "chuc_vu":"Giám Đốc",
+            "ngay_sinh":"2004/08/13"
+        }
+       
+    ]
+}
